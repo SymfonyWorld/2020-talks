@@ -180,7 +180,7 @@ By [Samuel ROZE](https://connect.symfony.com/profile/sroze)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://live.symfony.com/account/replay/video/457)
 
 By [Christopher Hertel](https://connect.symfony.com/profile/chertel)  
 ![github](icon/github.png) [@chr-hertel](https://github.com/chr-hertel)  
