@@ -231,7 +231,7 @@ Well beyond the classic flock() or sem_acquire(), these components enable us to 
 In this talk, through business examples, I'll show you how those components work. And we will see the possibilities they offer us as well as their limits.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slides.com/jderusse/lock-semaphore-sfworld)  
 [Video](https://live.symfony.com/account/replay/video/458)
 
 By [Jérémy DERUSSÉ](https://connect.symfony.com/profile/jderusse)  
